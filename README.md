@@ -46,7 +46,7 @@ npm install
 3. **Configurer l'environnement**
 Créer un fichier `.env` à la racine du projet :
 ```env
-REACT_APP_API_URL=http://localhost:5001/api
+VITE_API_URL=http://localhost:5001/api
 ```
 
 4. **Démarrer l'application**
